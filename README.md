@@ -1,8 +1,8 @@
 # Assignment 0
 
-Frandita Adhitama
-05111640000129
-HCI - A
+Frandita Adhitama  
+05111640000129  
+HCI - A  
 
 ## App list with bad ui/ux design
 
@@ -30,5 +30,13 @@ In FAQ section, there is no indicator that those words is a dropdown. This will 
 ![geo-navbar-1](/images/geosentric-faq-1.png)
 
 ### 2. ilmukomputer.com
+
+In the first glance, the web looks so packed with words that confusing me as the reader.
+
+![ilmu-home-0](/images/ilmu-home-0.png)
+
+Not only that, even the login menu is in a disturbing place.
+
+![ilmu-login-0](/images/ilmu-login-0.png)
 
 ### 3. Riliv
