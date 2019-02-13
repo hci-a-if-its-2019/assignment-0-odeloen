@@ -33,15 +33,15 @@ In FAQ section, there is no indicator that those words is a dropdown. This will 
 
 In the first glance, the web looks so packed with words that confusing me as the reader.
 
-![ilmu-home-0](/images/ilmu-home-0.png)
+![ilmu-home-0](/images/ilmu-home-0.PNG)
 
 Not only that, even the login menu is in a disturbing place.
 
-![ilmu-login-0](/images/ilmu-login-0.png)
+![ilmu-login-0](/images/ilmu-login-0.PNG)
 
 ### 3. Riliv
 
 www.riliv.com is a web that connects people that needs help psycholgical help with a pyschologist. This web has a good UI except for one problem. There are multiple buttons that do the same thing. Three “mulai konseling” button. One is at the navbar. One is at the head of the home page. One is slightly down below.
 
-![riliv-button-0](/images/riliv-button-0.png)
-![riliv-button-1](/images/riliv-button-1.png)
+![riliv-button-0](/images/riliv-button-0.PNG)
+![riliv-button-1](/images/riliv-button-1.PNG)
