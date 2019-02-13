@@ -41,7 +41,10 @@ Not only that, even the login menu is in a disturbing place.
 
 ### 3. Riliv
 
-www.riliv.com is a web that connects people that needs help psycholgical help with a pyschologist. This web has a good UI except for one problem. There are multiple buttons that do the same thing. Three “mulai konseling” button. One is at the navbar. One is at the head of the home page. One is slightly down below.
+www.riliv.com is a web that connects people that needs help psycholgical help with a pyschologist. This web has a good UI except for one problem. There are multiple buttons that do the same thing. Three “mulai konseling” button. One is at the navbar. One is at the head of the home page.
 
 ![riliv-button-0](/images/riliv-button-0.PNG)
+
+One is slightly down below.
+
 ![riliv-button-1](/images/riliv-button-1.PNG)
